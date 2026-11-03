@@ -133,4 +133,3 @@ Report:
 - Verification performed and anything not run.
 
 Commit or push only when the user asks. Before committing, inspect the repository identity and recent authors. Never borrow another author's name or email. If the user's identity is not configured, ask before creating the commit.
-
